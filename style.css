@@ -47,3 +47,16 @@ li {
 #copyright {
     font-size: 15px;
 }
+
+.related-author {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+/* ul {
+    list-style: none;
+} */
+
+.related {
+    list-style: none;
+}
