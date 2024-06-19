@@ -31,10 +31,19 @@ li {
     font-size: 18px;
 }
 
-footer p {
+/* footer p {
+    font-size: 15px;
+} */
+
+/* article header p {
+    font-style: italic;
+} */
+
+#author {
+    font-style: italic;
     font-size: 15px;
 }
 
-article header p {
-    font-style: italic;
+#copyright {
+    font-size: 15px;
 }
